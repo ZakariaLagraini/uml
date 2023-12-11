@@ -59,7 +59,7 @@ Notre projet vise à créer une plateforme de freelance inspirée par les foncti
 * Le diagramme de classe modélise la structure statique du système, détaillant les entités principales telles que les utilisateurs, les services, les transactions, etc. Les relations entre ces entités sont clairement définies, permettant une compréhension approfondie de la base de données sous-jacente.
 
 <div align="center">
-<img src="ClassDiagram.png" alt="Logo" width="800" height="700">
+<img src="ClassDiagram.PNG" alt="Logo" width="800" height="700">
 </div>
 
 ## Diagramme de sequence
