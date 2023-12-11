@@ -19,7 +19,7 @@
     ·
     <a href="https://github.com/ZakariaLagraini/uml">Report Bug</a>
     ·
-    <a href="https://github.com/ZakariaLagraini/uml">Request Feature</a>
+    <a href="https://github.com/ZakariaLagraini">Request Feature</a>
   </p>
 </div>
 
