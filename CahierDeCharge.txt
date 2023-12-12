@@ -1,0 +1,54 @@
+
+CDC :
+
+1. Votre activite :
+   produits/services, positionnement.
+2. Votre entrprise : 
+   salaries, date ed creation, CA, zone geographique
+3.  Vos concurrents : durects et indirects
+
+Objectifs de site 
+
+1. Role du site web dans votre strategie d'entrprise
+2. Objectifs de contacts (prospects ou clients) via votre site 
+
+Nature de site
+ 1. Creation ou refonte de site
+2. site vitrine, ecommerce, page evenementielle, media en ligne ?
+
+Vos cibles 
+1. Particuliers ou entreprise
+2. Quelles siont vos cibles ? a trier en ordr hierarchique
+3. Centre d'interet de vos cibles ?
+4. a qulles douleurs de vos cibles repondez-vous via votre offre ?
+5. si ecommerce, quelle est le pqnier moyen attendu ?
+
+Perimetre technique 
+1. site seulement francais ou multilangue 
+2. si multilangue, quelle langues ? qui fournit la 
+traduction?
+3. Disposez-vous edja d'un hebergement web ?
+4. Disposez-vous deja d'un nom de domaine ?
+5. Disposez vous de ressourcess humaines internes ou externes deja allouees au projet (chef prjet, webdesigner, webmaster, ...) ?
+Ressources existantes 
+1. Des ressources sont-elles deja disponibles ?
+2. Disposez-vous des documents de presentation de l'entrepriseou de ses produits disponibles ? Si oui, sous quel formats ?
+
+Descriptif graphique 
+1. avez vous defini une charte graphique ?
+2. inspirez vous d'un site coucurrent ?
+3. avez-vous deja realise une maquette ?
+
+Arborescence de pages
+1. Quelles sont les grandes sections de votre site ?
+2. Quelles sont les pages principales ?
+3. Prevoyer-vous un blog ?
+
+Prestations attendues
+1. Creation ou migration de site
+2. Creation d'un design
+3. Achat du nom de domaine et gestion de l'hebergement
+4. infogeranvce, maintenace et mise a jour
+5. Formation a la gestion du site
+6. Accompagnement marketing : 
+plan marketing, referencement, statistiques
